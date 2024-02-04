@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="824.88pt" height="225pt" viewBox="0 0 824.88 225">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H3437.5V937.5H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H3437.5V937.5H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M45.69989 108.708049H785.9249V828.0535H45.69989Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M45.69989 108.722469H785.88546V827.45809H45.69989Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H3437.5V937.5H0Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H1100V300H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H1100V300H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_2)">
+<path transform="matrix(.6743864,0,0,.6743864,10.967974,26.08993)" d="M0 0H263V256H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_3)">
+<path transform="matrix(.75,0,0,.75,10.967974,26.093392)" stroke-width="4" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#bf9be3" d="M0 0H236.85938V230.17827H0Z"/>
+</g>
+<g clip-path="url(#clip_4)">
+<text fill="#bf9be3" xml:space="preserve" transform="matrix(1.7583702 0 0 1.7583702 207.31858 13.777576)" font-size="70.02" font-family="ComicSansMS"><tspan y="76" x="6.828125 43.271806 79.10011 112.09088 152.53449 173.45713 215.64427 251.47258 285.1129">Path Care</tspan></text>
+<text fill="#bf9be3" xml:space="preserve" transform="matrix(1.7583702 0 0 1.7583702 207.31858 13.777576)" font-size="70.02" font-family="ComicSansMS"><tspan y="76" x="323.48439"> </tspan></text>
+<text fill="#bf9be3" xml:space="preserve" transform="matrix(1.8083254 0 0 1.8083254 39.36505 -16.795269)" font-size="102.44" font-family="CanvaSans" font-weight="bold"><tspan y="110" x="0">P</tspan></text>
+<text fill="#bf9be3" xml:space="preserve" transform="matrix(.96626338 0 0 .96626338 516.1593 170.83371)" font-size="30.54" font-family="ComicSansMS"><tspan y="33" x=".046875 23.496903 40.223497 55.84691 64.210208 78.59627 96.23224 105.355838 113.91293 128.77605 137.89965 169.63843 186.36502 201.98844 210.35173 224.7378">Health is Wealth</tspan></text>
+<text fill="#bf9be3" xml:space="preserve" transform="matrix(.96626338 0 0 .96626338 516.1593 170.83371)" font-size="30.54" font-family="ComicSansMS"><tspan y="33" x="242.375"> </tspan></text>
+</g>
+</svg>
